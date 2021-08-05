@@ -34,10 +34,15 @@ homopolymer_in_EnR_AMLQBDA.csv: Homopolymer positions
 Requirement:
 
 The software has been tested on MacOS (10.13.3 or 10.15.7) with the following installed:
+
 Python 2.7.16 or Python 2.7.18
+
 Matlab R2019a or Matlab R2020b
+
 Bowtie 2 version 2.3.5.1
+
 pysam
 
 Instructions for use:
+
 In terminal, navigate to the current folder containing codes and the fastq file to analyze, then type in "sh AML_panel_run_all.sh"
